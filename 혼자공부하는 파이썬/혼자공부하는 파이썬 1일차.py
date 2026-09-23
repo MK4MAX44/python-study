@@ -1,3 +1,5 @@
+# 2026-09-22 (1일차)
+
 ###print("hello coding python")
 ###print("안녕하세요")
 
